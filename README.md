@@ -6,7 +6,7 @@ Welcome to my personal portfolio. This project is a modular web application desi
 * Language: PHP (Modular architecture for maintainability and reusability).
 * Styling: Tailwind CSS (Responsive Design and SEO optimization).
 * Deployment: Netlify with CI/CD integration.
-* Tools: PhpStorm, IntelliJ, Visual Studio, Git, Version Control.
+* Tools: PhpStorm, Git, Version Control.
 
 ## Featured Projects
 * Transcription and Report Generation App: A Python-based solution for automating business workflows and managing data through SQL integration.
@@ -27,4 +27,4 @@ Welcome to my personal portfolio. This project is a modular web application desi
 * Email: monroy.jp.dev@gmail.com
 * LinkedIn: linkedin.com/in/juan-pablo-monroy-espinosa-1741ba309/
 * GitHub: github.com/CookieJPG
-* Location: Montreal, QC.
+* Location: Bogotá, Colombia.
