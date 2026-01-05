@@ -15,4 +15,12 @@
             </div>
         </div>
     </div>
+    <nav class="flex gap-6 mt-6 justify-center md:justify-end">
+        <a href="#about" class="px-4 py-2 text-sm font-black uppercase tracking-tighter text-blue-400 border-b-2 border-blue-400 transition-all duration-300">
+            About Me
+        </a>
+        <a href="#projects-section" class="px-4 py-2 text-sm font-black uppercase tracking-tighter text-slate-400 border-b-2 border-transparent transition-all duration-300 hover:text-blue-400">
+            Projects
+        </a>
+    </nav>
 </header>
