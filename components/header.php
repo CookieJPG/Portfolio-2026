@@ -15,7 +15,7 @@
             </div>
         </div>
     </div>
-    <nav class="flex gap-6 mt-6 justify-center md:justify-end">
+    <nav class="flex gap-6 mt-6 justify-center">
         <a href="#about" class="px-4 py-2 text-sm font-black uppercase tracking-tighter text-blue-400 border-b-2 border-blue-400 transition-all duration-300">
             About Me
         </a>
