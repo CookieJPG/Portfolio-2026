@@ -22,7 +22,7 @@
             scrollbar-width: none;
             scroll-behavior: smooth;
             overflow-x: hidden;
-            overflow-y: auto;
+            overflow-y: hidden;
         }
     </style>
 </head>
