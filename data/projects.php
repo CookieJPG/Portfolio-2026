@@ -61,6 +61,7 @@ $projects = [
 
 $profile = [
     'name' => 'JUAN PABLO MONROY ESPINOSA',
+    'picture' => './assets/img/profile.jpg',
     'email' => 'monroy.jp.dev@gmail.com',
     'location' => 'Bogotá, Colombia',
     'education' => 'Computer Science Technology',

@@ -1,5 +1,6 @@
 <header class="bg-slate-950 border-b border-slate-800 py-10">
     <div class="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
+        <img src="<?= $profile['picture'] ?>" alt="<?= $profile['name'] ?>" class="w-24 h-24 rounded-full border-2 border-blue-400 object-cover shadow-lg shadow-blue-500/20">
         <div class="text-center md:text-left">
             <h1 class="text-4xl font-black text-white tracking-tight">
                 <?= $profile['name'] ?>
@@ -15,11 +16,11 @@
             </div>
         </div>
     </div>
-    <nav class="flex gap-6 mt-6 justify-center">
-        <a href="#about" class="px-4 py-2 text-sm font-black uppercase tracking-tighter text-blue-400 border-b-2 border-blue-400 transition-all duration-300">
+    <nav class="flex gap-6 mt-6 justify-center md:justify-center">
+        <a href="#about" class="px-4 py-2 text-sm font-black uppercase tracking-tighter text-slate-400 hover:text-blue-400 transition-colors border-b-2 border-transparent hover:border-blue-400">
             About Me
         </a>
-        <a href="#projects-section" class="px-4 py-2 text-sm font-black uppercase tracking-tighter text-slate-400 border-b-2 border-transparent transition-all duration-300 hover:text-blue-400">
+        <a href="#projects-section" class="px-4 py-2 text-sm font-black uppercase tracking-tighter text-slate-400 hover:text-blue-400 transition-colors border-b-2 border-transparent hover:border-blue-400">
             Projects
         </a>
     </nav>
